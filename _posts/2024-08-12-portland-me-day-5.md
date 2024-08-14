@@ -4,6 +4,7 @@ title: "Day 5: Farewell to Portland"
 date: 2024-08-12 12:00:00 +0000
 categories: [Travel, Portland Maine, Itinerary]
 tags: [portland, maine, itinerary]
+permalink: /portland-maine-5/
 ---
 
 ### **Day 5: Farewell to Portland**

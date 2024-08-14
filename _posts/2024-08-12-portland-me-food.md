@@ -2,8 +2,9 @@
 layout: post
 title: "A Culinary Journey Through Portland, Maine"
 date: 2024-08-12 12:00:00 +0000
-categories: [Travel, Portland Maine, Itinerary]
-tags: [portland, maine, itinerary]
+categories: [Portland Maine, Food]
+permalink: /portland-maine-food/
+tags: [portland, maine]
 ---
 
 ### **A Culinary Journey Through Portland, Maine**

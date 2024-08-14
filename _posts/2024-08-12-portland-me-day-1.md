@@ -4,6 +4,7 @@ title: "Day 1: Arrival and Evening Adventures in Portland, Maine"
 date: 2024-08-12 10:00:00 +0000
 categories: [Travel, Portland Maine, Itinerary]
 tags: [portland, maine, itinerary]
+permalink: /portland-maine-1/
 ---
 
 ### **Day 1: Arrival and Evening Adventures in Portland, Maine**

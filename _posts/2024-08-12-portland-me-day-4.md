@@ -4,6 +4,7 @@ title: "Day 4: A Culinary Journey Through Portland"
 date: 2024-08-12 12:00:00 +0000
 categories: [Travel, Portland Maine, Itinerary]
 tags: [portland, maine, itinerary]
+permalink: /portland-maine-4/
 ---
 
 ### **Day 4: A Culinary Journey Through Portland**

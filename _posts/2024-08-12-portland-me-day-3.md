@@ -4,6 +4,7 @@ title: "Day 3: A Perfect Picnic and Old Town Exploration"
 date: 2024-08-12 12:00:00 +0000
 categories: [Travel, Portland Maine, Itinerary]
 tags: [portland, maine, itinerary]
+permalink: /portland-maine-3/
 ---
 
 ### **Day 3: A Perfect Picnic and Old Town Exploration**

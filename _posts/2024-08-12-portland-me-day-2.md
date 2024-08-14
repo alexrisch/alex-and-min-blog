@@ -4,6 +4,7 @@ title: "Day 2: Discovering Southern Maine’s Iconic Lighthouses"
 date: 2024-08-12 11:00:00 +0000
 categories: [Travel, Portland Maine, Itinerary]
 tags: [portland, maine, itinerary]
+permalink: /portland-maine-2/
 ---
 
 ### **Day 2: Discovering Southern Maine’s Iconic Lighthouses**
